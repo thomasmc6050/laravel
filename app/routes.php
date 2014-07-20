@@ -11,7 +11,6 @@
 |
 */
 
-Route::get('/', function()
-{
-	return View::make('hello');
-});
+Route::get('register', array('as' => 'postregister', 'uses' => 'pages@register'));
+Route::get('myaccount', array('as' => 'myaccount', 'uses' => 'pages@myaccount'));
+
