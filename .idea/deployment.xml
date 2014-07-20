@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="WAMP">
+  <component name="PublishConfigData" serverName="WAMP" uploadOnCheckin="4f5b0c57-14c9-4efe-9a4f-9aa06738d45c">
     <serverData>
       <paths name="WAMP">
         <serverdata>
           <mappings>
-            <mapping deploy="laravel" local="$PROJECT_DIR$" web="laravel" />
+            <mapping deploy="\" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="WAMP" />
   </component>
 </project>
 
